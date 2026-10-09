@@ -1,12 +1,21 @@
 <div align="center">
 
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:38BDF8,50:14B8A6,100:F59E0B" alt="Colorful technology accent"/>
 
 <br/>
 
-# Hi, I'm Pradnyeel Patil 👋
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Pradnyeel%20Patil&fontSize=52&fontColor=d4af37&color=0:3730A3,45:6366F1,75:8B5CF6,100:60A5FA&stroke=818CF8&animation=fadeIn&fontAlignY=45&desc=Building%20Ideas%20Into%20Software&descAlignY=65&descSize=17"
+  width="100%"
+  alt="Pradnyeel Patil — Building Ideas Into Software"
+/>
 
-### 🧭 Exploring Technology. Building What's Next.
+
+# Hi, I'm Pradnyeel !
+### 🧭 Exploring Technology. Building What's Next?
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=0891B2&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI%2FML+%26+NLP+Enthusiast;Developer+of+Practical+Solutions;Turning+Ideas+Into+Real+Projects;Always+Learning%2C+Always+Building" alt="Animated introduction"/>
 
@@ -43,15 +52,10 @@ I'm a Computer Engineering student passionate about AI/ML, software development,
 
 <div align="center">
 
-| 🧠 Intelligence | 💻 Development | 🧰 Engineering |
-|:---:|:---:|:---:|
-| Machine Learning | Python · Java | Git · GitHub |
-| NLP · Generative AI | JavaScript · React | VS Code |
-| AI-powered systems | FastAPI · Flask | Firebase · Supabase |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vscode,firebase,supabase&perline=7" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vscode,firebase,androidstudio,supabase&perline=7" alt="Technology stack"/>
 
 </div>
 
@@ -121,6 +125,8 @@ An Android application focused on connecting skills, learning, and opportunities
 
 
 </div>
+
+
 
 ---
 
