@@ -7,11 +7,15 @@
 
 <br/>
 
+<div align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Pradnyeel%20Patil&fontSize=52&fontColor=d4af37&color=0:3730A3,45:6366F1,75:8B5CF6,100:60A5FA&stroke=818CF8&animation=fadeIn&fontAlignY=45&desc=Building%20Ideas%20Into%20Software&descAlignY=65&descSize=17"
+  src="./assets/hero-banner.svg"
   width="100%"
-  alt="Pradnyeel Patil — Building Ideas Into Software"
+  alt="Pradnyeel Patil — Computer Engineering, AI and Software Development"
 />
+
+</div>
 
 
 # Hi, I'm Pradnyeel !
