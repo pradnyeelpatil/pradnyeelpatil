@@ -120,22 +120,11 @@ An Android application focused on connecting skills, learning, and opportunities
 
 <br/><br/>
 
-
-
 </div>
-
-
-
----
-
-
 
 <div align="center">
 
-
 <br/>
-
-
 
 <br/><br/>
 
