@@ -17,10 +17,6 @@
 
 </div>
 
-
-# Hi, I'm Pradnyeel !
-### 🧭 Exploring Technology. Building What's Next?
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=800&color=0891B2&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI%2FML+%26+NLP+Enthusiast;Developer+of+Practical+Solutions;Turning+Ideas+Into+Real+Projects;Always+Learning%2C+Always+Building" alt="Animated introduction"/>
 
 <br/>
@@ -40,7 +36,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:DBEAFE,50:CCFBF1,100:FEF3C7&text=CODE%20%2B%20CURIOSITY%20%2B%20ADVENTURE&fontSize=20&fontColor=164E63&animation=fadeIn&fontAlignY=50" width="100%" alt="Building The Future"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:DBEAFE,50:CCFBF1,100:FEF3C7&text=Building The Future&fontSize=20&fontColor=164E63&animation=fadeIn&fontAlignY=50" width="100%" alt="Building the future"/>
 
 </div>
 
