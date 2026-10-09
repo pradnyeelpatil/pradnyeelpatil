@@ -118,20 +118,13 @@ An Android application focused on connecting skills, learning, and opportunities
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradnyeelpatil&bg_color=ffffff&color=334155&line=0891b2&point=f59e0b&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" alt="GitHub contribution graph"/>
+
 
 </div>
 
 ---
 
-## 🧭 Current Coordinates
 
-```text
-FOCUS   → AI / ML · NLP · Generative AI
-BUILD   → Practical applications · Full-stack projects
-EXPLORE → New technologies · Better solutions
-IMPROVE → Programming · DSA · Software engineering
-```
 
 <div align="center">
 
