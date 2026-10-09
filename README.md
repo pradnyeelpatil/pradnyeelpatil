@@ -40,13 +40,13 @@
 
 ---
 
-## 🌍 A Little About Me
+##  A Little About Me
 
 I'm a Computer Engineering student passionate about AI/ML, software development, and turning ideas into useful applications. From intelligent travel-planning systems to web apps and automation, I enjoy exploring how technology can solve real-world problems. Inspired by travel, curious about emerging technologies, and always looking for something new to build — I'm learning, experimenting, and improving one project at a time.
 
 ---
 
-## 🛰️ My Technology Map
+## My Technology Map
 
 <div align="center">
 
@@ -59,13 +59,13 @@ I'm a Computer Engineering student passionate about AI/ML, software development,
 
 ---
 
-## ✈️ Selected Expeditions
+##  Selected Expeditions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ TripAdapt AI
+### TripAdapt AI
 **Technology meets travel.**
 
 An adaptive travel-planning application combining itineraries, weather, travel news, and risk analysis.
@@ -75,7 +75,7 @@ An adaptive travel-planning application combining itineraries, weather, travel n
 </td>
 <td width="50%" valign="top">
 
-### 🧾 GroupTrip Ledger
+### GroupTrip Ledger
 **Every trip. Clear expenses.**
 
 A group-travel expense manager for recording payments, splitting costs, and tracking balances.
@@ -87,17 +87,17 @@ A group-travel expense manager for recording payments, splitting costs, and trac
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 BrainXAI
+### BrainXAI
 **Data-driven predictions.**
 
-A machine learning application that predicts student placement outcomes using student-related features.
+A machine learning application that predicts human brain health  outcomes using interactive test assessment 
 
 `Scikit-learn` `Random Forest`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 SkillSync
+### SkillSync
 **Skills meet opportunity.**
 
 An Android application focused on connecting skills, learning, and opportunities.
@@ -110,7 +110,7 @@ An Android application focused on connecting skills, learning, and opportunities
 
 ---
 
-## 📡 GitHub Telemetry
+## GitHub Telemetry
 
 <div align="center">
 
@@ -132,24 +132,15 @@ An Android application focused on connecting skills, learning, and opportunities
 
 <div align="center">
 
-### 🌐 Every project is a new destination.
-
-**Learn deeply. Build thoughtfully. Explore endlessly.**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">LinkedIn</a>
-&nbsp; ✦ &nbsp;
-<a href="mailto:pradnyeelpatil@gmail.com">Email</a>
-&nbsp; ✦ &nbsp;
-<a href="https://instagram.com/pradnyeel_">Instagram</a>
-&nbsp; ✦ &nbsp;
-<a href="https://youtube.com/@pradnyeel">YouTube</a>
+
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:BAE6FD,50:99F6E4,100:FDE68A" width="100%" alt="Travel-inspired color wave"/>
 
-<sub>Thanks for stopping by. Happy exploring! ✈️</sub>
+<sub>Thanks for stalking , Happy exploring!! ✈️</sub>
 
 </div>
