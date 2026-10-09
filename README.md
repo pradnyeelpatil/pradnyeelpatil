@@ -36,8 +36,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=0:DBEAFE,50:CCFBF1,100:FEF3C7&text=Building The Future&fontSize=20&fontColor=164E63&animation=fadeIn&fontAlignY=50" width="100%" alt="Building the future"/>
-
 </div>
 
 ---
