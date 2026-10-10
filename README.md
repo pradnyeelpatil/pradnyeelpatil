@@ -54,19 +54,7 @@ I'm a Computer Engineering student passionate about AI/ML, software development,
 
 Languages, Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,cpp,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,vscode,firebase,androidstudio,supabase&perline=7" alt="My Technology Skills" />
-
-<br/><br/>
-
-AI Tools
-
-<a href="https://chatgpt.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/412991" alt="ChatGPT" width="48" height="48" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://gemini.google.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="48" height="48" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,html,cpp,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,vscode,firebase,androidstudio, typescript,supabase&perline=7" alt="My Technology Skills" />
 
 <br/>
 
