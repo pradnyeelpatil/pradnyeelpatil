@@ -54,7 +54,7 @@ I'm a Computer Engineering student passionate about AI/ML, software development,
 
 Languages, Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,cpp,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,vscode,firebase,androidstudio, typescript,supabase&perline=7" alt="My Technology Skills" />
+<img src="https://skillicons.dev/icons?i=python,html,cpp,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,vscode,firebase,androidstudio,supabase&perline=7" alt="My Technology Skills" />
 
 <br/>
 
