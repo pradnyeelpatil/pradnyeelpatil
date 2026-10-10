@@ -55,7 +55,7 @@ I'm a Computer Engineering student passionate about AI/ML, software development,
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,html,cpp,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,chatgpt,gemini,vscode,firebase,androidstudio,supabase&perline=7" alt="Technology stack"/>
+<img https://skillicons.dev/icons?i=python,html,cpp,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,vscode,firebase,androidstudio,supabase,chatgpt,gemini&perline=7
 
 </div>
 
