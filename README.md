@@ -55,7 +55,7 @@ I'm a Computer Engineering student passionate about AI/ML, software development,
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,html,c++,sqlite, googlecolab,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,render,vscode,firebase,androidstudio,supabase&perline=7" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,html,c++,sqlite,css,java,js,react,nextjs,fastapi,flask,tensorflow,git,github,vercel,render,vscode,firebase,androidstudio,supabase&perline=7" alt="Technology stack"/>
 
 </div>
 
@@ -132,6 +132,6 @@ An Android application focused on connecting skills, learning, and opportunities
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:BAE6FD,50:99F6E4,100:FDE68A" width="100%" alt="Travel-inspired color wave"/>
 
-<sub>Thanks for stalking , Happy exploring!! ✈️</sub>
+<sub>Thanks for stalking , Happy exploring!! </sub>
 
 </div>
