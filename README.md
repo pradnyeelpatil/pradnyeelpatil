@@ -23,19 +23,23 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:pradnyeelpatil@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/pradnyeel_">
-<img src="https://img.shields.io/badge/Instagram-Follow-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://youtube.com/@pradnyeel">
-<img src="https://img.shields.io/badge/YouTube-Visit-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradnyeel-patil-3b4160321">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pradnyeelpatil@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/pradnyeel_">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="36" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@pradnyeel">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="36" alt="YouTube"/>
+  </a>
+</p>
 <br/><br/>
 
 </div>
