@@ -112,26 +112,6 @@ An Android application focused on connecting skills, learning, and opportunities
 </tr>
 </table>
 
----
-
-## GitHub Telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pradnyeelpatil&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=0891B2&icon_color=0D9488" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradnyeelpatil&layout=compact&hide_border=true&theme=default&title_color=0891B2&langs_count=6" alt="Most used languages"/>
-
-<br/><br/>
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:BAE6FD,50:99F6E4,100:FDE68A" width="100%" alt="Travel-inspired color wave"/>
 
 <sub>Thanks for stalking , Happy exploring!! </sub>
